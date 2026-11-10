@@ -1,12 +1,3 @@
-> [!IMPORTANT]
-> **This repository (`USB-Uncensored-LLM `) is deprecated and is no longer actively maintained.**
-> 
-> All active development, features, and bug fixes (including the Windows crash/access violation fixes) have moved to:
-> ### 👉 **[Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)**
-> 
-> Please visit the new repository to download the latest version, report issues, and follow the project's development.
-
-
 # USB-Uncensored-LLM ⚡
 
 **USB-Uncensored-LLM** is a fully air-gapped, zero-dependency, plug-and-play Local AI environment designed to run seamlessly from your **local hard drive** or a **portable USB/SSD**. It bypasses complex installations natively executing large language models directly on your hardware with no internet required.
