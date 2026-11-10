@@ -26,6 +26,8 @@ echo ===================================================
 echo     SETUP COMPLETE! You're ready to go!
 echo ===================================================
 echo.
-echo  To start: double-click start-fast-chat.bat
+echo  To start web   : double-click start-fast-chat.bat
+echo  To start chose : double-click start.bat
+
 echo.
 pause
